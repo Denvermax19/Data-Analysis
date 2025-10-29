@@ -1,6 +1,6 @@
 # Data Analysis with Python
 
-Welcome to this beginner-friendly repository for learning **numpy** and **pandas**—the two pillars of data analysis with Python. Every code snippet here comes with clear explanations.
+Welcome to this beginner-friendly repository for learning **Numpy** and **Pandas**—the two pillars of data analysis with Python. Every code snippet here comes with clear explanations.
 
 ## Repository Overview
 
