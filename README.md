@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Analysis with Python
 
 Welcome to this beginner-friendly repository for learning **numpy** and **pandas**—the two pillars of data analysis with Python. Every code snippet here comes with clear explanations.
@@ -13,12 +14,13 @@ You’ll find concise, well-documented code covering foundational topics in nump
 
 ## Getting Started
 
-Clone this repo:
-
-https://github.com/Denvermax19/Data-Analysis.git
+Clone this repo:https://github.com/Denvermax19/Data-Analysis.git
 
 
 - Explore each file under `numpy/` and `pandas/`
 - Run the code interactively (Jupyter Notebook recommended)
 
 If you’re ready to become familiar and proficient at Python-based data analysis, this repo is for you!
+=======
+
+>>>>>>> 5a6ab44cc4037896eef2cadae81169dc5486d680
