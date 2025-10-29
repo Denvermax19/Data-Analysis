@@ -17,3 +17,9 @@ You’ll find concise, well-documented code covering foundational topics in nump
 ``` bash
 git clone https://github.com/Denvermax19/Data-Analysis.git
 ```
+
+
+- Explore each file under `numpy/` and `pandas/`
+- Run the code interactively (Jupyter/VS Code recommended)
+
+If you’re ready to become familiar and proficient at Python-based data analysis, this repo is for you!
